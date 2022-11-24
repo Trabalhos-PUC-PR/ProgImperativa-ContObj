@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -G Ninja -S "/home/kovalski/Documents/Puc/Programação Imperativa/PJBL2" -B "/home/kovalski/Documents/Puc/Programação Imperativa/PJBL2/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kovalski/Documents/Puc/Programação Imperativa/PJBL2/cmake-build-debug

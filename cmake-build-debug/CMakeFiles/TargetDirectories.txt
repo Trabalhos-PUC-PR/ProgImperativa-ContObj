@@ -1,0 +1,3 @@
+/home/kovalski/Documents/Puc/Programação Imperativa/PJBL2/cmake-build-debug/CMakeFiles/PJBL2.dir
+/home/kovalski/Documents/Puc/Programação Imperativa/PJBL2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kovalski/Documents/Puc/Programação Imperativa/PJBL2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
